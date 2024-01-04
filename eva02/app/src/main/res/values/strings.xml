@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_Compras">Compras App</string>
+    <string name="compra_form_ejemplo">1 Kg. de Limones</string>
+    <string name="compra_form_agregar" >Agregar compra</string>
+    <string name="logo">Logo</string>
+    <string name="compra_form_eliminar">Eliminar compra</string>
+    <string name="configuracion_form_ejemplo">Configuración</string>
+    <string name="ordenaralf_form_ejemplo">Ordenar Alfabeticamente</string>
+    <string name="ordenaritems_form_ejemplo">Ordenar por items sin comprar</string>
+
+
+</resources>

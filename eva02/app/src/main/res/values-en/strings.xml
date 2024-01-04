@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_Compras">Shopping Cart App</string>
+    <string name="compra_form_ejemplo">2 Lb. of Lemons</string>
+    <string name="compra_form_agregar">Add to cart</string>
+    <string name="logo">Logo</string>
+    <string name="compra_form_eliminar">"Delete "</string>
+    <string name="configuracion_form_ejemplo">Configuration</string>
+    <string name="ordenaralf_form_ejemplo">Order Alphabetically</string>
+    <string name="ordenaritems_form_ejemplo">Sort by items without purchasing</string>
+
+</resources>
